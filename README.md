@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 </div>
 <p align="center">
-  <a style="text-decoration:none" href="mail.bitbw@gmail.com">
+  <a style="text-decoration:none" href="mailto:mail.bitbw@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a style="text-decoration:none" href="https://github.com/bitbw">
