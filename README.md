@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitbw&show_icons=true&bg_color=30,606c88,3f4c6b&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/luswdev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitbw&show_icons=true&bg_color=30,606c88,3f4c6b&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/bitbw)
   
 </div>
 <p align="center">
