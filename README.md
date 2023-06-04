@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m a tech enthusiast who loves coding and keeping up with the latest advancements in AI technology.  I’m passionate about exploring new ideas and learning new things.  I’m always looking for ways to improve my skills and knowledge in the field of computer science
 
 <!--
 **bitbw/bitbw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
